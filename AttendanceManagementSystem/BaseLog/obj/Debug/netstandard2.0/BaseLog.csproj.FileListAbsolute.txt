@@ -1,0 +1,11 @@
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\BaseLog\obj\Debug\netstandard2.0\BaseLog.csprojResolveAssemblyReference.cache
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\BaseLog\obj\Debug\netstandard2.0\BaseLog.csproj.CoreCompileInputs.cache
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\BaseLog\obj\Debug\netstandard2.0\BaseLog.AssemblyInfoInputs.cache
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\BaseLog\obj\Debug\netstandard2.0\BaseLog.AssemblyInfo.cs
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\BaseLog\bin\Debug\netstandard2.0\BaseLog.deps.json
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\BaseLog\bin\Debug\netstandard2.0\BaseLog.dll
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\BaseLog\bin\Debug\netstandard2.0\BaseLog.pdb
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\BaseLog\bin\Debug\netstandard2.0\BaseEmployee.dll
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\BaseLog\bin\Debug\netstandard2.0\BaseEmployee.pdb
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\BaseLog\obj\Debug\netstandard2.0\BaseLog.dll
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\BaseLog\obj\Debug\netstandard2.0\BaseLog.pdb

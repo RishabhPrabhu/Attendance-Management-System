@@ -1,0 +1,5 @@
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\DbOperations\bin\Debug\netstandard2.0\DbOperations.deps.json
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\DbOperations\bin\Debug\netstandard2.0\DbOperations.dll
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\DbOperations\obj\Debug\netstandard2.0\DbOperations.csproj.CoreCompileInputs.cache
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\DbOperations\obj\Debug\netstandard2.0\DbOperations.AssemblyInfoInputs.cache
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\DbOperations\obj\Debug\netstandard2.0\DbOperations.AssemblyInfo.cs

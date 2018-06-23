@@ -1,0 +1,11 @@
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\BaseAttendance\bin\Debug\netstandard2.0\BaseAttendance.deps.json
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\BaseAttendance\bin\Debug\netstandard2.0\BaseAttendance.dll
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\BaseAttendance\obj\Debug\netstandard2.0\BaseAttendance.csproj.CoreCompileInputs.cache
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\BaseAttendance\obj\Debug\netstandard2.0\BaseAttendance.AssemblyInfoInputs.cache
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\BaseAttendance\obj\Debug\netstandard2.0\BaseAttendance.AssemblyInfo.cs
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\BaseAttendance\bin\Debug\netstandard2.0\BaseAttendance.pdb
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\BaseAttendance\bin\Debug\netstandard2.0\BaseEmployee.dll
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\BaseAttendance\bin\Debug\netstandard2.0\BaseEmployee.pdb
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\BaseAttendance\obj\Debug\netstandard2.0\BaseAttendance.csprojResolveAssemblyReference.cache
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\BaseAttendance\obj\Debug\netstandard2.0\BaseAttendance.dll
+C:\Users\GPCTAdmin\source\repos\AttendanceManagementSystem\BaseAttendance\obj\Debug\netstandard2.0\BaseAttendance.pdb

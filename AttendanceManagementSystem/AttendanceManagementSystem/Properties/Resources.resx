@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Absent" xml:space="preserve">
+    <value>Absent</value>
+  </data>
+  <data name="AskChoice" xml:space="preserve">
+    <value>Please enter your choice : </value>
+  </data>
+  <data name="AskEmail" xml:space="preserve">
+    <value>Email - </value>
+  </data>
+  <data name="AskEmployeeDetails" xml:space="preserve">
+    <value>Enter Employee details :</value>
+  </data>
+  <data name="AskID" xml:space="preserve">
+    <value>Employee ID - </value>
+  </data>
+  <data name="AskIdForAttendance" xml:space="preserve">
+    <value>Enter the Employee Id to mark the attendance : </value>
+  </data>
+  <data name="AskManagerDetails" xml:space="preserve">
+    <value>Enter Manager details :</value>
+  </data>
+  <data name="AskName" xml:space="preserve">
+    <value>Name - </value>
+  </data>
+  <data name="AskToAddEmployee" xml:space="preserve">
+    <value>Do you want to add an employee? (Y/N) : </value>
+  </data>
+  <data name="AttendanceCollectionName" xml:space="preserve">
+    <value>Attendance</value>
+  </data>
+  <data name="CheckInSuccess" xml:space="preserve">
+    <value> CheckIn successfull  </value>
+  </data>
+  <data name="CheckOutSuccess" xml:space="preserve">
+    <value> CheckOut successfull </value>
+  </data>
+  <data name="ConnectionEndPointUrl" xml:space="preserve">
+    <value>https://localhost:8081</value>
+  </data>
+  <data name="ConnectionPrimaryKey" xml:space="preserve">
+    <value>C2y6yDjf5/R+ob0N8A7Cgv30VRDJIWEHLM+4QDU5DE2nQ9nDuVTqobD4b8mGGyPMbIZnqyMsEcaGQy67XIw/Jw==</value>
+  </data>
+  <data name="DatabaseName" xml:space="preserve">
+    <value>Company</value>
+  </data>
+  <data name="EmployeeAlreadyCheckedIn" xml:space="preserve">
+    <value>Employee {0} has already checked-in today.</value>
+  </data>
+  <data name="EmployeeAlreadyCheckedOut" xml:space="preserve">
+    <value>Employee {0} has already checked out for today.</value>
+  </data>
+  <data name="EmployeeCollectionName" xml:space="preserve">
+    <value>Employee</value>
+  </data>
+  <data name="EmployeeInvalid" xml:space="preserve">
+    <value>The new employee details are not valid.</value>
+  </data>
+  <data name="EmployeeNotCheckedIn" xml:space="preserve">
+    <value>Employee {0} has not checked in today.</value>
+  </data>
+  <data name="EmployeeNotFound" xml:space="preserve">
+    <value>Employee with this id could not be found.</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>ERROR!! </value>
+  </data>
+  <data name="HasAManager" xml:space="preserve">
+    <value>Does {0} has a manager? (Y/N) - </value>
+  </data>
+  <data name="InvalidInput" xml:space="preserve">
+    <value>Invalid Input!</value>
+  </data>
+  <data name="LogCollectionName" xml:space="preserve">
+    <value>Log</value>
+  </data>
+  <data name="LogEmployeeCheckedIn" xml:space="preserve">
+    <value>Employee checked in with id : </value>
+  </data>
+  <data name="LogEmployeeCheckedOut" xml:space="preserve">
+    <value>Employee checked out with id :</value>
+  </data>
+  <data name="LogNewAttendanceCreated" xml:space="preserve">
+    <value>New Attendance document created for employee id : </value>
+  </data>
+  <data name="LogNewEmployeeAdded" xml:space="preserve">
+    <value>New employee added with id : </value>
+  </data>
+  <data name="MainMenu" xml:space="preserve">
+    <value>What do you want to do </value>
+  </data>
+  <data name="OptionAddEmployee" xml:space="preserve">
+    <value>1. Add a new employee</value>
+  </data>
+  <data name="OptionCheckIn" xml:space="preserve">
+    <value>1. Check In</value>
+  </data>
+  <data name="OptionCheckOut" xml:space="preserve">
+    <value>2. Check Out</value>
+  </data>
+  <data name="OptionExit" xml:space="preserve">
+    <value>3. Exit</value>
+  </data>
+  <data name="OptionMarkAttendance" xml:space="preserve">
+    <value>2. Mark attendance for existing employee</value>
+  </data>
+  <data name="Present" xml:space="preserve">
+    <value>Present</value>
+  </data>
+  <data name="PressAnyKey" xml:space="preserve">
+    <value>Press any key to continue.</value>
+  </data>
+  <data name="PressKey" xml:space="preserve">
+    <value>Press any key to continue : </value>
+  </data>
+  <data name="QuestionMark" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="TryAgain" xml:space="preserve">
+    <value>Request was not processed. Please Try again.</value>
+  </data>
+</root>
